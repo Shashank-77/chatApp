@@ -1,12 +1,11 @@
-# chatApp is a real time Messaging application.
-
 # Author - Shashank Ravishankar
+
+# chatApp is a real time Messaging application.
 
 # Backend using NodeJS, Expressjs
 # Frontend using React
 # Database - MongoDB
 
-# A real time Messaging application.
 ## Features
 Users can register and create their own profiles.
 Users can view profiles of other users as well as follow/unfollow them.
