@@ -1,5 +1,5 @@
 # chatApp
-A real time chat application.
+A real time chat application \n.
 Features
 Users can register and create their own profiles.
 Users can view profiles of other users as well as follow/unfollow them.
