@@ -1,5 +1,4 @@
-# chatApp
-
+# chatApp is a real time Messaging application.
 
 # Author - Shashank Ravishankar
 
